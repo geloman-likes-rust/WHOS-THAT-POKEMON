@@ -1,9 +1,7 @@
 # WHOS-THAT-POKEMON
 A vanillaJS toy project - contains ugly and unmaintainable code.
 
-## How to run locally
-
-### Prerequisites
+## Prerequisites
 
 Please install or have installed the following:
 
